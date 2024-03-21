@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SantsuMaaria, from Finland
 - 👀 I’m interested in UX and accessibility
-- 🌱 I’m currently learning front-end coding
-- 💞️ I’m looking to collaborate on professionals
-- 📫 How to reach me by git-message
+- 🌱 Passioned learning more front-end coding
+- 💞️ I’m looking to collaborate on professional designers
 - 😄 Pronouns: mom, figure skater, dog mom 🐕🐕
 - ⚡ Fun fact: you should tell me that!
 
